@@ -1,1 +1,8 @@
 /* your code here */
+.price{
+    color: red;
+}
+.price span{
+    color: red;
+    font-size: 25px;
+}
